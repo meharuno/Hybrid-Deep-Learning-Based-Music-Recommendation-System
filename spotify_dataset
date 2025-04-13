@@ -1,0 +1,6 @@
+## 📁 Dataset
+
+Due to size limitations, the full dataset (`spotify_dataset.csv`) is hosted externally.  
+- [AICrowd Official Source](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge)
+
+A sample version is included in `data/sample_spotify_dataset.csv` for quick reference and testing.
